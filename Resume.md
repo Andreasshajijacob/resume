@@ -3,7 +3,7 @@
 
 ## OBJECTIVE:
 
-### To learn as well as develop skill sets that would enhance my aspects as an engineer as well as a human being 
+**To learn as well as develop skill sets that would enhance my aspects as an engineer as well as a human being** 
 
 ## PERSONAL DETAILS:
 
@@ -33,10 +33,10 @@
 
 # LANGUAGES KNOW:
 
-### English,Malayalam
+**English,Malayalam**
 
 # HOBBIES:
 
-### Writing,Acting,Crafting new things
+**Writing,Acting,Crafting new things**
 
 
